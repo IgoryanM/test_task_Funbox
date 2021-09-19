@@ -4,5 +4,5 @@
 * Добавьте данные для подключения к redis-server в файле `funbox_test/settings.py`
 * Запустите сервер: `python manage.py runserver`
 
-## Тестировние:
+## Тестирование:
 * Запустите команду: `pytest`
